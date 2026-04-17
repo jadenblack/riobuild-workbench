@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "eliostruyf.vscode-front-matter",
+    "bretwardjames.gh-projects",
+    "astro-build.astro-vscode"
+  ],
+  "unwantedRecommendations": []
+}

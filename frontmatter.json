@@ -1,0 +1,30 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.projects": [
+    {
+      "name": "site",
+      "default": true,
+      "configuration": {
+        "frontMatter.content.pageFolders": [
+          {
+            "title": "Docs",
+            "path": "[[workspace]]/src/content/docs"
+          }
+        ],
+        "frontMatter.content.publicFolder": "[[workspace]]/public"
+      }
+    },
+    {
+      "name": "notes",
+      "configuration": {
+        "frontMatter.content.pageFolders": [
+          {
+            "title": "Workbench Notes",
+            "path": "[[workspace]]/notes"
+          }
+        ],
+        "frontMatter.content.publicFolder": "[[workspace]]/public"
+      }
+    }
+  ]
+}

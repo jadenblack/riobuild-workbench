@@ -1,0 +1,23 @@
+{
+  "name": "riostack-vscode-ext",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Front Matter-first Astro workspace for a RioStack VS Code Insiders workbench baseline.",
+  "type": "module",
+  "packageManager": "pnpm@10.26.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "setup:extensions:insiders": "code-insiders --install-extension eliostruyf.vscode-front-matter && code-insiders --install-extension bretwardjames.gh-projects && code-insiders --install-extension astro-build.astro-vscode",
+    "setup:extensions:stable": "code --install-extension eliostruyf.vscode-front-matter && code --install-extension bretwardjames.gh-projects && code --install-extension astro-build.astro-vscode"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.8",
+    "typescript": "^5.9.3"
+  }
+}
