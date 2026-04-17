@@ -1,0 +1,27 @@
+{
+  "mainBranch": "main",
+  "branchPattern": "{user}/{number}-{title}",
+  "startWorkingStatus": "In Progress",
+  "doneStatus": "Done",
+  "prOpenedStatus": "In Review",
+  "prMergedStatus": "Done",
+  "worktreePath": "~/.ghp/worktrees",
+  "worktreeCopyFiles": [
+    ".env",
+    ".env.local"
+  ],
+  "worktreeSetupCommand": "pnpm install",
+  "worktreeAutoSetup": true,
+  "parallelWork": {
+    "openTerminal": true,
+    "autoRunClaude": true,
+    "autoResume": true
+  },
+  "mcp": {
+    "tools": {
+      "read": true,
+      "action": false
+    },
+    "disabledTools": []
+  }
+}

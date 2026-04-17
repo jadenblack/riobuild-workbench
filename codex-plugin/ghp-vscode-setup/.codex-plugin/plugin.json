@@ -1,0 +1,44 @@
+{
+  "name": "ghp-vscode-setup",
+  "version": "0.1.0",
+  "description": "Bootstrap, audit, and repair GHP CLI, MCP, and VS Code setup across user and workspace scopes.",
+  "author": {
+    "name": "Jaden Black",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "https://github.com/bretwardjames/ghp",
+  "repository": "https://github.com/bretwardjames/ghp",
+  "license": "MIT",
+  "keywords": [
+    "ghp",
+    "github-projects",
+    "vscode",
+    "vscode-insiders",
+    "setup"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GHP VS Code Setup",
+    "shortDescription": "Manage GHP setup for VS Code Stable and Insiders",
+    "longDescription": "Bootstrap, audit, and repair a GitHub Projects workflow across ghp-cli, ghp-mcp, and the VS Code extension with user-level and workspace-level templates.",
+    "developerName": "Jaden Black",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/bretwardjames/ghp",
+    "privacyPolicyURL": "https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "defaultPrompt": [
+      "Audit my GHP setup for VS Code Stable and Insiders",
+      "Apply the GHP workspace template in this repo",
+      "Bootstrap my user-level ghp and VS Code settings"
+    ],
+    "brandColor": "#24292F",
+    "composerIcon": "./assets/ghp-vscode-setup.svg",
+    "logo": "./assets/ghp-vscode-setup.svg",
+    "screenshots": []
+  }
+}

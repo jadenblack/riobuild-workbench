@@ -1,0 +1,13 @@
+{
+  "ghProjects.mainBranch": "main",
+  "ghProjects.branchNamePattern": "{user}/{number}-{title}",
+  "ghProjects.startWorkingStatus": "In Progress",
+  "ghProjects.prOpenedStatus": "In Review",
+  "ghProjects.prMergedStatus": "Done",
+  "ghProjects.worktreePath": "~/.ghp/worktrees",
+  "ghProjects.worktreeSetupCommand": "pnpm install",
+  "ghProjects.worktreeAutoSetup": true,
+  "ghProjects.parallelWork.autoRunClaude": true,
+  "ghProjects.parallelWork.autoResume": true,
+  "ghProjects.showSwitchButton": true
+}

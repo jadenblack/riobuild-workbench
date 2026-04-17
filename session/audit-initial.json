@@ -1,0 +1,123 @@
+{
+  "mode": "Audit",
+  "scope": "Both",
+  "editors": "Both",
+  "dryRun": false,
+  "environment": {
+    "ghpCliAvailable": true,
+    "ghpMcpAvailable": true,
+    "stableSettingsPath": "C:\\Users\\jaden.black\\AppData\\Roaming\\Code\\User\\settings.json",
+    "stableSettingsExists": true,
+    "insidersSettingsPath": "C:\\Users\\jaden.black\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+    "insidersSettingsExists": true,
+    "workspacePath": "C:\\Users\\jaden.black\\dev\\repos\\.jaden.black\\05-projects\\ghp-vscode-setup"
+  },
+  "results": [
+    {
+      "scope": "User",
+      "name": "ghp-cli user config",
+      "path": "C:\\Users\\jaden.black\\.config\\ghp-cli\\config.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\user\\ghp-cli.config.json",
+      "state": "missing",
+      "diffCount": 12,
+      "diffPaths": [
+        "branchPattern",
+        "doneStatus",
+        "mainBranch",
+        "mcp",
+        "parallelWork",
+        "prMergedStatus",
+        "prOpenedStatus",
+        "startWorkingStatus",
+        "worktreeAutoSetup",
+        "worktreeCopyFiles",
+        "worktreePath",
+        "worktreeSetupCommand"
+      ]
+    },
+    {
+      "scope": "User",
+      "name": "VS Code Stable settings",
+      "path": "C:\\Users\\jaden.black\\AppData\\Roaming\\Code\\User\\settings.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\user\\vscode.settings.json",
+      "state": "drift",
+      "diffCount": 11,
+      "diffPaths": [
+        "ghProjects.branchNamePattern",
+        "ghProjects.mainBranch",
+        "ghProjects.parallelWork.autoResume",
+        "ghProjects.parallelWork.autoRunClaude",
+        "ghProjects.prMergedStatus",
+        "ghProjects.prOpenedStatus",
+        "ghProjects.showSwitchButton",
+        "ghProjects.startWorkingStatus",
+        "ghProjects.worktreeAutoSetup",
+        "ghProjects.worktreePath",
+        "ghProjects.worktreeSetupCommand"
+      ]
+    },
+    {
+      "scope": "User",
+      "name": "VS Code Insiders settings",
+      "path": "C:\\Users\\jaden.black\\AppData\\Roaming\\Code - Insiders\\User\\settings.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\user\\vscode.settings.json",
+      "state": "drift",
+      "diffCount": 11,
+      "diffPaths": [
+        "ghProjects.branchNamePattern",
+        "ghProjects.mainBranch",
+        "ghProjects.parallelWork.autoResume",
+        "ghProjects.parallelWork.autoRunClaude",
+        "ghProjects.prMergedStatus",
+        "ghProjects.prOpenedStatus",
+        "ghProjects.showSwitchButton",
+        "ghProjects.startWorkingStatus",
+        "ghProjects.worktreeAutoSetup",
+        "ghProjects.worktreePath",
+        "ghProjects.worktreeSetupCommand"
+      ]
+    },
+    {
+      "scope": "Workspace",
+      "name": "Workspace GHP config",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.jaden.black\\05-projects\\ghp-vscode-setup\\.ghp\\config.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\workspace\\ghp.config.json",
+      "state": "missing",
+      "diffCount": 8,
+      "diffPaths": [
+        "branchPattern",
+        "defaults",
+        "doneStatus",
+        "issueNotInProject",
+        "mainBranch",
+        "prMergedStatus",
+        "prOpenedStatus",
+        "startWorkingStatus"
+      ]
+    },
+    {
+      "scope": "Workspace",
+      "name": "Workspace VS Code settings",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.jaden.black\\05-projects\\ghp-vscode-setup\\.vscode\\settings.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\workspace\\vscode.settings.json",
+      "state": "missing",
+      "diffCount": 3,
+      "diffPaths": [
+        "ghProjects.showOnlyAssignedToMe",
+        "ghProjects.showSwitchButton",
+        "ghProjects.worktreeAutoSetup"
+      ]
+    },
+    {
+      "scope": "Workspace",
+      "name": "Workspace VS Code extensions",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.jaden.black\\05-projects\\ghp-vscode-setup\\.vscode\\extensions.json",
+      "template": "C:\\Users\\jaden.black\\plugins\\ghp-vscode-setup\\templates\\workspace\\vscode.extensions.json",
+      "state": "missing",
+      "diffCount": 1,
+      "diffPaths": [
+        "recommendations"
+      ]
+    }
+  ]
+}

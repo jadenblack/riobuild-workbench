@@ -1,0 +1,54 @@
+{
+  "name": "@jaden-black/ghp-vscode-setup",
+  "version": "0.1.0-beta.1",
+  "description": "Spec-first MVP repo for a Codex-managed GHP VS Code setup plugin with prerelease workflow.",
+  "private": false,
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@10.26.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "lint": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --coverage",
+    "test:watch": "vitest",
+    "changeset": "changeset",
+    "changeset:status": "changeset status",
+    "pre:enter": "changeset pre enter beta",
+    "pre:exit": "changeset pre exit",
+    "version-packages": "changeset version",
+    "release:check": "pnpm lint && pnpm build && pnpm test",
+    "release": "changeset publish",
+    "release:beta": "pnpm pre:enter && pnpm version-packages"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.30.0",
+    "@types/node": "^24.3.0",
+    "@vitest/coverage-v8": "^3.2.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.2",
+    "vite-plugin-dts": "^4.5.4",
+    "vitest": "^3.2.4"
+  }
+}

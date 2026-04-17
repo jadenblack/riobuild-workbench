@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "@jaden-black/ghp-vscode-setup": "0.0.0"
+  },
+  "changesets": [
+    "initial-beta",
+    "official-beta-1"
+  ]
+}
