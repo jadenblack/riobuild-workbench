@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RioStack Front Matter Astro Workspace</title>
+  </head>
+  <body style="font-family: system-ui, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 16px;">
+    <p style="text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; color: #666;">RioStack</p>
+    <h1>Front Matter-first Astro workspace</h1>
+    <p>This repo is the testbed for a VS Code Insiders + Front Matter + GHP workbench.</p>
+
+    <h2>Docs collection</h2>
+    <ul>
+      {docs.map((entry: (typeof docs)[number]) => (
+        <li><strong>{entry.data.title}</strong>{entry.data.description ? ` - ${entry.data.description}` : ''}</li>
+      ))}
+    </ul>
+  </body>
+</html>

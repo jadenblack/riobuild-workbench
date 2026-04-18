@@ -1,4 +1,7 @@
 {
+  "files.associations": {
+    "*.md": "markdown"
+  },
   "ghProjects.showOnlyAssignedToMe": false,
   "ghProjects.showSwitchButton": true,
   "ghProjects.worktreeAutoSetup": true,

@@ -1,5 +1,7 @@
 {
   "recommendations": [
+    "eliostruyf.vscode-front-matter",
+    "astro-build.astro-vscode",
     "bretwardjames.gh-projects",
     "GitHub.vscode-pull-request-github",
     "GitHub.vscode-github-actions"
