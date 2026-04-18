@@ -1,7 +1,7 @@
 {
-  "name": "@jaden-black/ghp-vscode-setup",
+  "name": "@jaden-black/riobuild_workbench",
   "version": "0.1.0-beta.1",
-  "description": "Spec-first MVP repo for a Codex-managed GHP VS Code setup plugin with prerelease workflow.",
+  "description": "RioBuild Workbench ADE - Agentic VS Code built on RioStack by RIOlabs - Realationship IO",
   "private": false,
   "license": "MIT",
   "type": "module",

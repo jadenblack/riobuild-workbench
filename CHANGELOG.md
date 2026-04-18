@@ -1,5 +1,4 @@
-# @jaden-black/ghp-vscode-setup
-
+# @jaden-black/riobuild-workbench
 ## 0.1.0-beta.1
 
 ### Patch Changes

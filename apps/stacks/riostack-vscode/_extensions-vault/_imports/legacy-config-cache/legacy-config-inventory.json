@@ -1,0 +1,1314 @@
+[
+  {
+    "name": "anthropic.claude-code-2.1.49-win32-x64",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\anthropic.claude-code-2.1.49-win32-x64",
+    "sizeBytes": 294398975,
+    "sizeMB": 280.76,
+    "lastWriteTime": "02/20/2026 23:38:57"
+  },
+  {
+    "name": "anthropic.claude-code-2.1.45-win32-x64",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\anthropic.claude-code-2.1.45-win32-x64",
+    "sizeBytes": 292923004,
+    "sizeMB": 279.35,
+    "lastWriteTime": "02/18/2026 11:55:58"
+  },
+  {
+    "name": "google.geminicodeassist-2.71.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\google.geminicodeassist-2.71.0",
+    "sizeBytes": 281937833,
+    "sizeMB": 268.88,
+    "lastWriteTime": "02/18/2026 11:45:13"
+  },
+  {
+    "name": "google.geminicodeassist-2.73.0-insiders.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\google.geminicodeassist-2.73.0-insiders.0",
+    "sizeBytes": 280501357,
+    "sizeMB": 267.51,
+    "lastWriteTime": "02/18/2026 15:09:03"
+  },
+  {
+    "name": "highagency.pencildev-0.6.26",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\highagency.pencildev-0.6.26",
+    "sizeBytes": 276475723,
+    "sizeMB": 263.67,
+    "lastWriteTime": "02/20/2026 08:41:57"
+  },
+  {
+    "name": "openai.chatgpt-0.4.76-win32-x64",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\openai.chatgpt-0.4.76-win32-x64",
+    "sizeBytes": 244793950,
+    "sizeMB": 233.45,
+    "lastWriteTime": "02/18/2026 14:28:05"
+  },
+  {
+    "name": "codeflow-studio.claude-code-extension-0.1.10",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\codeflow-studio.claude-code-extension-0.1.10",
+    "sizeBytes": 169923434,
+    "sizeMB": 162.05,
+    "lastWriteTime": "02/18/2026 11:56:02"
+  },
+  {
+    "name": "vscjava.migrate-java-to-azure-1.12.1-win32-x64",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vscjava.migrate-java-to-azure-1.12.1-win32-x64",
+    "sizeBytes": 108135469,
+    "sizeMB": 103.13,
+    "lastWriteTime": "02/20/2026 20:35:22"
+  },
+  {
+    "name": "github.copilot-chat-0.37.6",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\github.copilot-chat-0.37.6",
+    "sizeBytes": 85045582,
+    "sizeMB": 81.11,
+    "lastWriteTime": "02/16/2026 17:40:30"
+  },
+  {
+    "name": "tamasfe.even-better-toml-0.21.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\tamasfe.even-better-toml-0.21.2",
+    "sizeBytes": 72272658,
+    "sizeMB": 68.92,
+    "lastWriteTime": "02/20/2026 21:36:40"
+  },
+  {
+    "name": "appland.appmap-0.140.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\appland.appmap-0.140.0",
+    "sizeBytes": 66607529,
+    "sizeMB": 63.52,
+    "lastWriteTime": "02/18/2026 16:28:59"
+  },
+  {
+    "name": "teamsdevapp.ms-teams-vscode-extension-6.4.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\teamsdevapp.ms-teams-vscode-extension-6.4.3",
+    "sizeBytes": 61428229,
+    "sizeMB": 58.58,
+    "lastWriteTime": "02/18/2026 14:29:35"
+  },
+  {
+    "name": "ms-vscode.vscode-copilot-vision-0.1.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode.vscode-copilot-vision-0.1.1",
+    "sizeBytes": 47386804,
+    "sizeMB": 45.19,
+    "lastWriteTime": "02/18/2026 19:07:43"
+  },
+  {
+    "name": "skyler.ocrmnav-4.0.55",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\skyler.ocrmnav-4.0.55",
+    "sizeBytes": 43279239,
+    "sizeMB": 41.27,
+    "lastWriteTime": "02/16/2026 19:54:24"
+  },
+  {
+    "name": "deepmyst.mysti-0.3.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\deepmyst.mysti-0.3.3",
+    "sizeBytes": 39755722,
+    "sizeMB": 37.91,
+    "lastWriteTime": "02/20/2026 21:36:39"
+  },
+  {
+    "name": "islee23520.opencode-sidebar-tui-1.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\islee23520.opencode-sidebar-tui-1.3.1",
+    "sizeBytes": 38083433,
+    "sizeMB": 36.32,
+    "lastWriteTime": "02/20/2026 21:39:33"
+  },
+  {
+    "name": "agenticagents.agenticagents-2.5.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\agenticagents.agenticagents-2.5.0",
+    "sizeBytes": 36655681,
+    "sizeMB": 34.96,
+    "lastWriteTime": "02/18/2026 14:40:46"
+  },
+  {
+    "name": "bierner.markdown-mermaid-1.32.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-mermaid-1.32.0",
+    "sizeBytes": 35456790,
+    "sizeMB": 33.81,
+    "lastWriteTime": "02/16/2026 18:31:45"
+  },
+  {
+    "name": "vxplain.vxplain-1.1.8",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vxplain.vxplain-1.1.8",
+    "sizeBytes": 33685303,
+    "sizeMB": 32.12,
+    "lastWriteTime": "02/18/2026 12:01:05"
+  },
+  {
+    "name": "Microsoft.VisualStudio.Services.VSIX",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\Microsoft.VisualStudio.Services.VSIX",
+    "sizeBytes": 30978762,
+    "sizeMB": 29.54,
+    "lastWriteTime": "11/02/2025 07:23:14"
+  },
+  {
+    "name": "designgears.bitwarden-secrets-explorer-0.1.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\designgears.bitwarden-secrets-explorer-0.1.3",
+    "sizeBytes": 27543735,
+    "sizeMB": 26.27,
+    "lastWriteTime": "02/18/2026 00:57:23"
+  },
+  {
+    "name": "nrwl.angular-console-18.89.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\nrwl.angular-console-18.89.0",
+    "sizeBytes": 24612482,
+    "sizeMB": 23.47,
+    "lastWriteTime": "02/20/2026 10:37:15"
+  },
+  {
+    "name": "nrwl.angular-console-18.88.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\nrwl.angular-console-18.88.0",
+    "sizeBytes": 24609099,
+    "sizeMB": 23.47,
+    "lastWriteTime": "02/16/2026 14:58:12"
+  },
+  {
+    "name": "sourcegraph.amp-0.0.1765412457.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sourcegraph.amp-0.0.1765412457.vsix",
+    "sizeBytes": 17771250,
+    "sizeMB": 16.95,
+    "lastWriteTime": "12/10/2025 22:56:35"
+  },
+  {
+    "name": "graphite.gti-vscode-0.6.7",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\graphite.gti-vscode-0.6.7",
+    "sizeBytes": 16673749,
+    "sizeMB": 15.9,
+    "lastWriteTime": "02/16/2026 16:23:42"
+  },
+  {
+    "name": "vercel.turbo-vsc-2.0.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vercel.turbo-vsc-2.0.0.vsix",
+    "sizeBytes": 16496904,
+    "sizeMB": 15.73,
+    "lastWriteTime": "12/10/2025 23:42:47"
+  },
+  {
+    "name": "angelluisalmaraz.project-colorize-1.1.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\angelluisalmaraz.project-colorize-1.1.0.vsix",
+    "sizeBytes": 15509072,
+    "sizeMB": 14.79,
+    "lastWriteTime": "12/10/2025 23:31:57"
+  },
+  {
+    "name": "dev-vscode",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\dev-vscode",
+    "sizeBytes": 13807238,
+    "sizeMB": 13.17,
+    "lastWriteTime": "12/08/2025 15:11:30"
+  },
+  {
+    "name": "traycer.traycer-vscode-2.13.2-win32-x64.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\traycer.traycer-vscode-2.13.2-win32-x64.vsix",
+    "sizeBytes": 12296794,
+    "sizeMB": 11.73,
+    "lastWriteTime": "12/10/2025 23:42:23"
+  },
+  {
+    "name": "vscjava.vscode-java-upgrade-1.12.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vscjava.vscode-java-upgrade-1.12.1",
+    "sizeBytes": 12089053,
+    "sizeMB": 11.53,
+    "lastWriteTime": "02/20/2026 20:34:09"
+  },
+  {
+    "name": "clauding.clauding-workflow-2.2.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\clauding.clauding-workflow-2.2.1",
+    "sizeBytes": 10893488,
+    "sizeMB": 10.39,
+    "lastWriteTime": "02/18/2026 12:25:12"
+  },
+  {
+    "name": "github.vscode-github-actions-0.31.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\github.vscode-github-actions-0.31.0",
+    "sizeBytes": 10287956,
+    "sizeMB": 9.81,
+    "lastWriteTime": "02/16/2026 18:07:46"
+  },
+  {
+    "name": "hubspire.hubai-0.2.13",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\hubspire.hubai-0.2.13",
+    "sizeBytes": 10115307,
+    "sizeMB": 9.65,
+    "lastWriteTime": "02/20/2026 10:38:53"
+  },
+  {
+    "name": "typescriptteam.native-preview-0.20251210.1-win32-x64.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\typescriptteam.native-preview-0.20251210.1-win32-x64.vsix",
+    "sizeBytes": 8455526,
+    "sizeMB": 8.06,
+    "lastWriteTime": "12/10/2025 23:45:55"
+  },
+  {
+    "name": "eliostruyf.vscode-front-matter-beta-10.9.198163951.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\eliostruyf.vscode-front-matter-beta-10.9.198163951.vsix",
+    "sizeBytes": 8292752,
+    "sizeMB": 7.91,
+    "lastWriteTime": "12/10/2025 21:34:09"
+  },
+  {
+    "name": "github.vscode-pull-request-github-0.128.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\github.vscode-pull-request-github-0.128.0",
+    "sizeBytes": 8074207,
+    "sizeMB": 7.7,
+    "lastWriteTime": "02/16/2026 17:44:17"
+  },
+  {
+    "name": "openknot.openclaw-extension-0.0.9",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\openknot.openclaw-extension-0.0.9",
+    "sizeBytes": 7545195,
+    "sizeMB": 7.2,
+    "lastWriteTime": "02/18/2026 13:55:41"
+  },
+  {
+    "name": "ply-ct.vscode-ply-3.2.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ply-ct.vscode-ply-3.2.0.vsix",
+    "sizeBytes": 7180745,
+    "sizeMB": 6.85,
+    "lastWriteTime": "12/10/2025 23:39:35"
+  },
+  {
+    "name": "rajithadisanayaka.react-codebridge-1.2.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\rajithadisanayaka.react-codebridge-1.2.2",
+    "sizeBytes": 6293380,
+    "sizeMB": 6.0,
+    "lastWriteTime": "02/16/2026 16:01:26"
+  },
+  {
+    "name": "rphlmr.vscode-drizzle-orm-0.11.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\rphlmr.vscode-drizzle-orm-0.11.1.vsix",
+    "sizeBytes": 5381116,
+    "sizeMB": 5.13,
+    "lastWriteTime": "12/10/2025 23:33:44"
+  },
+  {
+    "name": "aetheron.openrouter-performance-tester-1.1.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\aetheron.openrouter-performance-tester-1.1.1.vsix",
+    "sizeBytes": 5260464,
+    "sizeMB": 5.02,
+    "lastWriteTime": "12/10/2025 23:30:43"
+  },
+  {
+    "name": "vscode-ext_linear-tools",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vscode-ext_linear-tools",
+    "sizeBytes": 4474640,
+    "sizeMB": 4.27,
+    "lastWriteTime": "12/10/2025 23:13:23"
+  },
+  {
+    "name": "punal100.antigravity-copilot-1.6.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\punal100.antigravity-copilot-1.6.0",
+    "sizeBytes": 4415248,
+    "sizeMB": 4.21,
+    "lastWriteTime": "02/20/2026 20:08:54"
+  },
+  {
+    "name": "nikolajfogh.private-extension-marketplace-1.11.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\nikolajfogh.private-extension-marketplace-1.11.3",
+    "sizeBytes": 4120468,
+    "sizeMB": 3.93,
+    "lastWriteTime": "02/16/2026 08:52:26"
+  },
+  {
+    "name": "juwanpetty.github-icons-for-vscode-1.4.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\juwanpetty.github-icons-for-vscode-1.4.0",
+    "sizeBytes": 4043921,
+    "sizeMB": 3.86,
+    "lastWriteTime": "02/20/2026 20:42:21"
+  },
+  {
+    "name": "crossmooreai.mcpmon-0.3.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\crossmooreai.mcpmon-0.3.0.vsix",
+    "sizeBytes": 3865300,
+    "sizeMB": 3.69,
+    "lastWriteTime": "10/08/2025 22:02:16"
+  },
+  {
+    "name": "matthewclso.linear-issues-0.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\matthewclso.linear-issues-0.0.3.vsix",
+    "sizeBytes": 3765267,
+    "sizeMB": 3.59,
+    "lastWriteTime": "12/10/2025 16:29:03"
+  },
+  {
+    "name": "redhat.vscode-yaml-1.20.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\redhat.vscode-yaml-1.20.0",
+    "sizeBytes": 3603571,
+    "sizeMB": 3.44,
+    "lastWriteTime": "02/18/2026 14:29:29"
+  },
+  {
+    "name": "ms-vscode.remote-repositories-0.42.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode.remote-repositories-0.42.0",
+    "sizeBytes": 3453900,
+    "sizeMB": 3.29,
+    "lastWriteTime": "02/16/2026 17:40:20"
+  },
+  {
+    "name": "albertorota.dasshboard-1.10.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\albertorota.dasshboard-1.10.0.vsix",
+    "sizeBytes": 3265293,
+    "sizeMB": 3.11,
+    "lastWriteTime": "12/10/2025 23:34:15"
+  },
+  {
+    "name": "tomoki1207.pdf-1.2.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\tomoki1207.pdf-1.2.2.vsix",
+    "sizeBytes": 3217467,
+    "sizeMB": 3.07,
+    "lastWriteTime": "12/10/2025 22:57:00"
+  },
+  {
+    "name": "juehangqin.vscode-mcp-server-0.3.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\juehangqin.vscode-mcp-server-0.3.1.vsix",
+    "sizeBytes": 2929279,
+    "sizeMB": 2.79,
+    "lastWriteTime": "12/10/2025 23:43:57"
+  },
+  {
+    "name": "10nates.ollama-autocoder-0.1.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\10nates.ollama-autocoder-0.1.1",
+    "sizeBytes": 2923679,
+    "sizeMB": 2.79,
+    "lastWriteTime": "02/18/2026 16:22:36"
+  },
+  {
+    "name": "ms-vscode-remote.remote-ssh-0.122.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode-remote.remote-ssh-0.122.0",
+    "sizeBytes": 2835449,
+    "sizeMB": 2.7,
+    "lastWriteTime": "02/20/2026 10:41:13"
+  },
+  {
+    "name": "alefragnani.project-manager-13.0.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\alefragnani.project-manager-13.0.1",
+    "sizeBytes": 2818314,
+    "sizeMB": 2.69,
+    "lastWriteTime": "02/25/2026 01:58:35"
+  },
+  {
+    "name": "formulahendry.acp-client-0.1.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\formulahendry.acp-client-0.1.2",
+    "sizeBytes": 2799453,
+    "sizeMB": 2.67,
+    "lastWriteTime": "02/20/2026 21:43:02"
+  },
+  {
+    "name": "github.remotehub-0.64.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\github.remotehub-0.64.0",
+    "sizeBytes": 2791251,
+    "sizeMB": 2.66,
+    "lastWriteTime": "02/16/2026 17:40:19"
+  },
+  {
+    "name": "tr3ffel.linear-md-0.0.4.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\tr3ffel.linear-md-0.0.4.vsix",
+    "sizeBytes": 2763301,
+    "sizeMB": 2.64,
+    "lastWriteTime": "12/10/2025 16:29:08"
+  },
+  {
+    "name": "coder.coder-remote-1.12.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\coder.coder-remote-1.12.2",
+    "sizeBytes": 2706961,
+    "sizeMB": 2.58,
+    "lastWriteTime": "02/20/2026 10:41:14"
+  },
+  {
+    "name": "ms-vscode-remote.remote-wsl-0.104.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode-remote.remote-wsl-0.104.3",
+    "sizeBytes": 2607290,
+    "sizeMB": 2.49,
+    "lastWriteTime": "02/18/2026 14:58:00"
+  },
+  {
+    "name": "henriquebruno.github-repository-manager-1.6.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\henriquebruno.github-repository-manager-1.6.1",
+    "sizeBytes": 2576658,
+    "sizeMB": 2.46,
+    "lastWriteTime": "02/16/2026 18:31:14"
+  },
+  {
+    "name": "monazim.codebrief-0.0.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\monazim.codebrief-0.0.3",
+    "sizeBytes": 2514859,
+    "sizeMB": 2.4,
+    "lastWriteTime": "02/20/2026 21:42:51"
+  },
+  {
+    "name": "paviko.opencode-ux-plus-gui-only-26.2.15",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\paviko.opencode-ux-plus-gui-only-26.2.15",
+    "sizeBytes": 2504689,
+    "sizeMB": 2.39,
+    "lastWriteTime": "02/20/2026 21:40:37"
+  },
+  {
+    "name": "linearflow.linear-flow-0.0.5.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\linearflow.linear-flow-0.0.5.vsix",
+    "sizeBytes": 2415403,
+    "sizeMB": 2.3,
+    "lastWriteTime": "12/10/2025 16:29:20"
+  },
+  {
+    "name": "bierner.markdown-yaml-preamble-0.1.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-yaml-preamble-0.1.0",
+    "sizeBytes": 2210006,
+    "sizeMB": 2.11,
+    "lastWriteTime": "02/16/2026 18:31:37"
+  },
+  {
+    "name": "bastndev.compare-code-0.2.6",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bastndev.compare-code-0.2.6",
+    "sizeBytes": 2114701,
+    "sizeMB": 2.02,
+    "lastWriteTime": "02/24/2026 23:51:24"
+  },
+  {
+    "name": "ms-vscode.azure-repos-0.40.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode.azure-repos-0.40.0",
+    "sizeBytes": 2092448,
+    "sizeMB": 2.0,
+    "lastWriteTime": "02/16/2026 17:40:20"
+  },
+  {
+    "name": "aslamanver.vsc-export-1.2.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\aslamanver.vsc-export-1.2.0",
+    "sizeBytes": 2008939,
+    "sizeMB": 1.92,
+    "lastWriteTime": "02/20/2026 11:16:06"
+  },
+  {
+    "name": "poffm.ui-test-visualizer-1.4.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\poffm.ui-test-visualizer-1.4.2.vsix",
+    "sizeBytes": 1854039,
+    "sizeMB": 1.77,
+    "lastWriteTime": "12/10/2025 22:18:06"
+  },
+  {
+    "name": "themeselection.shadcn-studio-vscode-extension-1.0.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\themeselection.shadcn-studio-vscode-extension-1.0.1",
+    "sizeBytes": 1851209,
+    "sizeMB": 1.77,
+    "lastWriteTime": "02/16/2026 16:02:28"
+  },
+  {
+    "name": "ms-rushstack.debug-certificate-manager-0.0.7",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-rushstack.debug-certificate-manager-0.0.7",
+    "sizeBytes": 1838686,
+    "sizeMB": 1.75,
+    "lastWriteTime": "02/18/2026 14:59:30"
+  },
+  {
+    "name": "garmin.private-extension-manager-1.8.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\garmin.private-extension-manager-1.8.0",
+    "sizeBytes": 1826929,
+    "sizeMB": 1.74,
+    "lastWriteTime": "02/16/2026 08:48:17"
+  },
+  {
+    "name": "esty.shadcn-plus-1.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\esty.shadcn-plus-1.0.3.vsix",
+    "sizeBytes": 1818529,
+    "sizeMB": 1.73,
+    "lastWriteTime": "12/10/2025 22:16:37"
+  },
+  {
+    "name": "kisstkondoros.vscode-gutter-preview-0.32.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\kisstkondoros.vscode-gutter-preview-0.32.2",
+    "sizeBytes": 1786051,
+    "sizeMB": 1.7,
+    "lastWriteTime": "02/19/2026 23:40:46"
+  },
+  {
+    "name": "phu1237.vs-browser-2.2.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\phu1237.vs-browser-2.2.0.vsix",
+    "sizeBytes": 1759059,
+    "sizeMB": 1.68,
+    "lastWriteTime": "12/10/2025 22:56:40"
+  },
+  {
+    "name": "sethford.mcp-figma-extension-1.0.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sethford.mcp-figma-extension-1.0.0.vsix",
+    "sizeBytes": 1749776,
+    "sizeMB": 1.67,
+    "lastWriteTime": "12/10/2025 23:37:49"
+  },
+  {
+    "name": "mikeeeyy04.gitshift-1.0.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mikeeeyy04.gitshift-1.0.3",
+    "sizeBytes": 1708052,
+    "sizeMB": 1.63,
+    "lastWriteTime": "02/16/2026 18:00:27"
+  },
+  {
+    "name": "nachonavarrocarter.github-projects-vscode-1.0.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\nachonavarrocarter.github-projects-vscode-1.0.0.vsix",
+    "sizeBytes": 1707409,
+    "sizeMB": 1.63,
+    "lastWriteTime": "12/10/2025 21:34:07"
+  },
+  {
+    "name": "minko.image-manager-3.3.10.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\minko.image-manager-3.3.10.vsix",
+    "sizeBytes": 1696598,
+    "sizeMB": 1.62,
+    "lastWriteTime": "12/10/2025 23:36:11"
+  },
+  {
+    "name": "maheshkok.claude-code-gui-1.5.12",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\maheshkok.claude-code-gui-1.5.12",
+    "sizeBytes": 1655248,
+    "sizeMB": 1.58,
+    "lastWriteTime": "02/18/2026 12:09:14"
+  },
+  {
+    "name": "garrettsiegel.lobstore-skills-0.2.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\garrettsiegel.lobstore-skills-0.2.0",
+    "sizeBytes": 1613587,
+    "sizeMB": 1.54,
+    "lastWriteTime": "02/18/2026 13:53:38"
+  },
+  {
+    "name": "andrepimenta.claude-code-chat-1.1.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\andrepimenta.claude-code-chat-1.1.0",
+    "sizeBytes": 1583223,
+    "sizeMB": 1.51,
+    "lastWriteTime": "02/18/2026 12:01:35"
+  },
+  {
+    "name": "tanishqkancharla.opencode-vscode-0.0.5.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\tanishqkancharla.opencode-vscode-0.0.5.vsix",
+    "sizeBytes": 1434868,
+    "sizeMB": 1.37,
+    "lastWriteTime": "12/10/2025 23:38:16"
+  },
+  {
+    "name": "willasm.obsidian-md-vsc-1.3.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\willasm.obsidian-md-vsc-1.3.0.vsix",
+    "sizeBytes": 1402163,
+    "sizeMB": 1.34,
+    "lastWriteTime": "12/10/2025 21:35:05"
+  },
+  {
+    "name": "strigo.linear-0.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\strigo.linear-0.0.3.vsix",
+    "sizeBytes": 1380571,
+    "sizeMB": 1.32,
+    "lastWriteTime": "10/09/2025 01:45:41"
+  },
+  {
+    "name": "dantran.linear-todos-1.3.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\dantran.linear-todos-1.3.0.vsix",
+    "sizeBytes": 1282036,
+    "sizeMB": 1.22,
+    "lastWriteTime": "12/10/2025 21:34:22"
+  },
+  {
+    "name": "aaravb.chrome-extension-developer-tools-2.1.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\aaravb.chrome-extension-developer-tools-2.1.0",
+    "sizeBytes": 1249465,
+    "sizeMB": 1.19,
+    "lastWriteTime": "02/18/2026 11:41:42"
+  },
+  {
+    "name": "garrettsiegel.lobstore-skills-0.2.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\garrettsiegel.lobstore-skills-0.2.2",
+    "sizeBytes": 1213099,
+    "sizeMB": 1.16,
+    "lastWriteTime": "02/27/2026 01:26:32"
+  },
+  {
+    "name": "newbpydev.mcp-diagnostics-extension-1.4.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\newbpydev.mcp-diagnostics-extension-1.4.1.vsix",
+    "sizeBytes": 1208763,
+    "sizeMB": 1.15,
+    "lastWriteTime": "12/10/2025 23:29:55"
+  },
+  {
+    "name": "byungho.claude-code-lens-0.3.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\byungho.claude-code-lens-0.3.0",
+    "sizeBytes": 1079452,
+    "sizeMB": 1.03,
+    "lastWriteTime": "02/18/2026 12:07:43"
+  },
+  {
+    "name": "vitest.explorer-1.36.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vitest.explorer-1.36.0.vsix",
+    "sizeBytes": 1048500,
+    "sizeMB": 1.0,
+    "lastWriteTime": "12/10/2025 23:43:41"
+  },
+  {
+    "name": "mhutchie.git-graph-1.30.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mhutchie.git-graph-1.30.0",
+    "sizeBytes": 999242,
+    "sizeMB": 0.95,
+    "lastWriteTime": "02/16/2026 16:15:55"
+  },
+  {
+    "name": "selemondev.vscode-preview-docs-0.1.12.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\selemondev.vscode-preview-docs-0.1.12.vsix",
+    "sizeBytes": 841695,
+    "sizeMB": 0.8,
+    "lastWriteTime": "12/10/2025 23:31:12"
+  },
+  {
+    "name": "codeontherocks.claude-config-2.3.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\codeontherocks.claude-config-2.3.0",
+    "sizeBytes": 829616,
+    "sizeMB": 0.79,
+    "lastWriteTime": "02/18/2026 11:55:52"
+  },
+  {
+    "name": "emmanuelbeziat.vscode-great-icons-2.1.120.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\emmanuelbeziat.vscode-great-icons-2.1.120.vsix",
+    "sizeBytes": 812765,
+    "sizeMB": 0.78,
+    "lastWriteTime": "12/10/2025 23:44:47"
+  },
+  {
+    "name": "timocodes.web-browser-preview-1.0.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\timocodes.web-browser-preview-1.0.0",
+    "sizeBytes": 696120,
+    "sizeMB": 0.66,
+    "lastWriteTime": "02/16/2026 16:26:18"
+  },
+  {
+    "name": "tanishqkancharla.opencode-vscode-0.3.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\tanishqkancharla.opencode-vscode-0.3.2",
+    "sizeBytes": 687249,
+    "sizeMB": 0.66,
+    "lastWriteTime": "02/20/2026 21:37:28"
+  },
+  {
+    "name": "bourhaouta.tailwindshades-0.0.5.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bourhaouta.tailwindshades-0.0.5.vsix",
+    "sizeBytes": 660773,
+    "sizeMB": 0.63,
+    "lastWriteTime": "12/10/2025 23:41:38"
+  },
+  {
+    "name": "disrei.vscode-kanban-agent-0.1.5",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\disrei.vscode-kanban-agent-0.1.5",
+    "sizeBytes": 660069,
+    "sizeMB": 0.63,
+    "lastWriteTime": "02/20/2026 21:39:48"
+  },
+  {
+    "name": "sirwanafifi.obsidian-clipper-0.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sirwanafifi.obsidian-clipper-0.0.1.vsix",
+    "sizeBytes": 654947,
+    "sizeMB": 0.62,
+    "lastWriteTime": "12/10/2025 21:34:38"
+  },
+  {
+    "name": "drewipson.claude-code-config-0.1.2",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\drewipson.claude-code-config-0.1.2",
+    "sizeBytes": 634201,
+    "sizeMB": 0.6,
+    "lastWriteTime": "02/18/2026 11:56:12"
+  },
+  {
+    "name": "google.gemini-cli-vscode-ide-companion-0.19.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\google.gemini-cli-vscode-ide-companion-0.19.1.vsix",
+    "sizeBytes": 627583,
+    "sizeMB": 0.6,
+    "lastWriteTime": "12/10/2025 21:33:42"
+  },
+  {
+    "name": "mbenachour.claude-code-chameleon-1.0.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mbenachour.claude-code-chameleon-1.0.0",
+    "sizeBytes": 615098,
+    "sizeMB": 0.59,
+    "lastWriteTime": "02/18/2026 12:06:28"
+  },
+  {
+    "name": "ms-playwright.playwright-1.1.17.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-playwright.playwright-1.1.17.vsix",
+    "sizeBytes": 614643,
+    "sizeMB": 0.59,
+    "lastWriteTime": "12/10/2025 23:32:23"
+  },
+  {
+    "name": "proliminal.agent-lens-0.0.15",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\proliminal.agent-lens-0.0.15",
+    "sizeBytes": 580782,
+    "sizeMB": 0.55,
+    "lastWriteTime": "02/18/2026 14:35:50"
+  },
+  {
+    "name": "sudstyle.pvmp-with-atom-feed-0.2.3",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sudstyle.pvmp-with-atom-feed-0.2.3",
+    "sizeBytes": 573708,
+    "sizeMB": 0.55,
+    "lastWriteTime": "02/16/2026 08:56:12"
+  },
+  {
+    "name": "codeservestudios.linear-toolkit-1.7.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\codeservestudios.linear-toolkit-1.7.0.vsix",
+    "sizeBytes": 525268,
+    "sizeMB": 0.5,
+    "lastWriteTime": "12/10/2025 16:28:26"
+  },
+  {
+    "name": "jerrygoyal.shortcut-menu-bar-3.0.4",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\jerrygoyal.shortcut-menu-bar-3.0.4",
+    "sizeBytes": 522516,
+    "sizeMB": 0.5,
+    "lastWriteTime": "02/20/2026 21:17:40"
+  },
+  {
+    "name": "frenco.vscode-vercel-2.2.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\frenco.vscode-vercel-2.2.0.vsix",
+    "sizeBytes": 498830,
+    "sizeMB": 0.48,
+    "lastWriteTime": "11/09/2025 21:27:18"
+  },
+  {
+    "name": "frenco.vscode-vercel-2.2.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\frenco.vscode-vercel-2.2.1.vsix",
+    "sizeBytes": 498743,
+    "sizeMB": 0.48,
+    "lastWriteTime": "12/10/2025 23:44:33"
+  },
+  {
+    "name": "premxai.packai-0.1.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\premxai.packai-0.1.0",
+    "sizeBytes": 493550,
+    "sizeMB": 0.47,
+    "lastWriteTime": "02/18/2026 14:34:52"
+  },
+  {
+    "name": "sanjulaganepola.github-local-actions-1.2.5",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sanjulaganepola.github-local-actions-1.2.5",
+    "sizeBytes": 493202,
+    "sizeMB": 0.47,
+    "lastWriteTime": "02/20/2026 20:41:47"
+  },
+  {
+    "name": "johnny-zhao.oai-compatible-copilot-0.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\johnny-zhao.oai-compatible-copilot-0.3.1",
+    "sizeBytes": 480579,
+    "sizeMB": 0.46,
+    "lastWriteTime": "02/18/2026 16:24:38"
+  },
+  {
+    "name": "bierner.markdown-emoji-0.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-emoji-0.3.1",
+    "sizeBytes": 466332,
+    "sizeMB": 0.44,
+    "lastWriteTime": "02/16/2026 18:31:04"
+  },
+  {
+    "name": "bierner.markdown-preview-github-styles-2.2.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-preview-github-styles-2.2.0",
+    "sizeBytes": 462685,
+    "sizeMB": 0.44,
+    "lastWriteTime": "02/16/2026 18:31:06"
+  },
+  {
+    "name": "oxdev03.pvmp-0.1.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\oxdev03.pvmp-0.1.1",
+    "sizeBytes": 436830,
+    "sizeMB": 0.42,
+    "lastWriteTime": "02/16/2026 08:54:11"
+  },
+  {
+    "name": "github-project-manager",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\github-project-manager",
+    "sizeBytes": 433250,
+    "sizeMB": 0.41,
+    "lastWriteTime": "12/01/2025 22:30:12"
+  },
+  {
+    "name": "bierner.markdown-footnotes-0.1.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-footnotes-0.1.1",
+    "sizeBytes": 422973,
+    "sizeMB": 0.4,
+    "lastWriteTime": "02/16/2026 18:31:15"
+  },
+  {
+    "name": "eliezerrangel.prisma-studio-1.1.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\eliezerrangel.prisma-studio-1.1.2.vsix",
+    "sizeBytes": 401436,
+    "sizeMB": 0.38,
+    "lastWriteTime": "12/10/2025 23:32:07"
+  },
+  {
+    "name": "dunderdev.sync-everything-0.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\dunderdev.sync-everything-0.3.1",
+    "sizeBytes": 360865,
+    "sizeMB": 0.34,
+    "lastWriteTime": "02/26/2026 19:08:36"
+  },
+  {
+    "name": "mhutchie.git-graph-1.30.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mhutchie.git-graph-1.30.0.vsix",
+    "sizeBytes": 354158,
+    "sizeMB": 0.34,
+    "lastWriteTime": "12/10/2025 21:33:55"
+  },
+  {
+    "name": "felipecaputo.git-project-manager-1.8.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\felipecaputo.git-project-manager-1.8.2.vsix",
+    "sizeBytes": 305029,
+    "sizeMB": 0.29,
+    "lastWriteTime": "12/10/2025 12:23:30"
+  },
+  {
+    "name": "katsute.code-background-4.0.4",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\katsute.code-background-4.0.4",
+    "sizeBytes": 284966,
+    "sizeMB": 0.27,
+    "lastWriteTime": "02/25/2026 18:42:40"
+  },
+  {
+    "name": "imile.shadcn-registry-helper-0.0.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\imile.shadcn-registry-helper-0.0.2.vsix",
+    "sizeBytes": 274213,
+    "sizeMB": 0.26,
+    "lastWriteTime": "12/10/2025 22:14:25"
+  },
+  {
+    "name": "zainzafar90.shadcn-colors-1.0.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\zainzafar90.shadcn-colors-1.0.0.vsix",
+    "sizeBytes": 236994,
+    "sizeMB": 0.23,
+    "lastWriteTime": "12/10/2025 22:17:35"
+  },
+  {
+    "name": "bierner.markdown-checkbox-0.4.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.markdown-checkbox-0.4.0",
+    "sizeBytes": 233674,
+    "sizeMB": 0.22,
+    "lastWriteTime": "02/16/2026 18:31:02"
+  },
+  {
+    "name": "bierner.github-markdown-preview-0.3.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.github-markdown-preview-0.3.0",
+    "sizeBytes": 230932,
+    "sizeMB": 0.22,
+    "lastWriteTime": "02/16/2026 18:31:05"
+  },
+  {
+    "name": "toolshive.vscode-quick-extension-manager-1.0.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\toolshive.vscode-quick-extension-manager-1.0.0",
+    "sizeBytes": 230208,
+    "sizeMB": 0.22,
+    "lastWriteTime": "02/20/2026 23:38:16"
+  },
+  {
+    "name": "aarondill.vercel-project-manager-vscode-2.3.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\aarondill.vercel-project-manager-vscode-2.3.1.vsix",
+    "sizeBytes": 209882,
+    "sizeMB": 0.2,
+    "lastWriteTime": "12/10/2025 12:22:11"
+  },
+  {
+    "name": "mikestead.dotenv-1.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mikestead.dotenv-1.0.1.vsix",
+    "sizeBytes": 207644,
+    "sizeMB": 0.2,
+    "lastWriteTime": "12/10/2025 23:33:51"
+  },
+  {
+    "name": "antiu.opencredits-1.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\antiu.opencredits-1.0.3.vsix",
+    "sizeBytes": 184547,
+    "sizeMB": 0.18,
+    "lastWriteTime": "12/10/2025 23:30:28"
+  },
+  {
+    "name": "bierner.github-markdown-preview-0.3.0-web.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\bierner.github-markdown-preview-0.3.0-web.vsix",
+    "sizeBytes": 177686,
+    "sizeMB": 0.17,
+    "lastWriteTime": "02/27/2026 00:11:36"
+  },
+  {
+    "name": "linear.linear-connect-1.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\linear.linear-connect-1.0.3.vsix",
+    "sizeBytes": 167972,
+    "sizeMB": 0.16,
+    "lastWriteTime": "12/10/2025 16:27:53"
+  },
+  {
+    "name": "vinaosb.opencode-quota-monitor-0.0.4",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vinaosb.opencode-quota-monitor-0.0.4",
+    "sizeBytes": 160172,
+    "sizeMB": 0.15,
+    "lastWriteTime": "02/20/2026 21:41:05"
+  },
+  {
+    "name": "ezoosk.claude-context-bar-1.4.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ezoosk.claude-context-bar-1.4.1",
+    "sizeBytes": 156551,
+    "sizeMB": 0.15,
+    "lastWriteTime": "02/18/2026 12:08:15"
+  },
+  {
+    "name": "agnislav.claude-code-config-manager-0.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\agnislav.claude-code-config-manager-0.3.1",
+    "sizeBytes": 116461,
+    "sizeMB": 0.11,
+    "lastWriteTime": "02/18/2026 12:23:51"
+  },
+  {
+    "name": "ms-vscode.remote-explorer-0.5.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode.remote-explorer-0.5.0",
+    "sizeBytes": 104578,
+    "sizeMB": 0.1,
+    "lastWriteTime": "02/20/2026 10:41:13"
+  },
+  {
+    "name": "wasp-lang.wasp-0.5.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\wasp-lang.wasp-0.5.3.vsix",
+    "sizeBytes": 103320,
+    "sizeMB": 0.1,
+    "lastWriteTime": "12/10/2025 23:31:50"
+  },
+  {
+    "name": "jnpiyush.agentx-5.1.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\jnpiyush.agentx-5.1.0",
+    "sizeBytes": 100615,
+    "sizeMB": 0.1,
+    "lastWriteTime": "02/18/2026 14:33:16"
+  },
+  {
+    "name": "josh-walters.vscode-ext-import-export-0.0.9.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\josh-walters.vscode-ext-import-export-0.0.9.vsix",
+    "sizeBytes": 93972,
+    "sizeMB": 0.09,
+    "lastWriteTime": "12/11/2025 11:29:41"
+  },
+  {
+    "name": "asifkibria.claude-code-toolkit-1.3.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\asifkibria.claude-code-toolkit-1.3.1",
+    "sizeBytes": 90664,
+    "sizeMB": 0.09,
+    "lastWriteTime": "02/18/2026 12:08:25"
+  },
+  {
+    "name": "ms-vscode-remote.remote-ssh-edit-0.87.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ms-vscode-remote.remote-ssh-edit-0.87.0",
+    "sizeBytes": 86546,
+    "sizeMB": 0.08,
+    "lastWriteTime": "02/20/2026 10:41:13"
+  },
+  {
+    "name": "mrnasil.pnpm-manager-1.0.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mrnasil.pnpm-manager-1.0.1",
+    "sizeBytes": 86350,
+    "sizeMB": 0.08,
+    "lastWriteTime": "02/16/2026 19:46:17"
+  },
+  {
+    "name": "hbenl.vscode-test-explorer-2.22.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\hbenl.vscode-test-explorer-2.22.1.vsix",
+    "sizeBytes": 84223,
+    "sizeMB": 0.08,
+    "lastWriteTime": "12/10/2025 23:41:47"
+  },
+  {
+    "name": "linear.linear-open-issue-1.0.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\linear.linear-open-issue-1.0.2.vsix",
+    "sizeBytes": 83961,
+    "sizeMB": 0.08,
+    "lastWriteTime": "12/10/2025 16:29:32"
+  },
+  {
+    "name": "mishalzakeer.linear-git-helper-0.0.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mishalzakeer.linear-git-helper-0.0.2.vsix",
+    "sizeBytes": 59120,
+    "sizeMB": 0.06,
+    "lastWriteTime": "12/10/2025 23:33:17"
+  },
+  {
+    "name": "kduy5222.vscode-vitest-runner-pnpm-0.0.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\kduy5222.vscode-vitest-runner-pnpm-0.0.1",
+    "sizeBytes": 53502,
+    "sizeMB": 0.05,
+    "lastWriteTime": "02/16/2026 19:46:24"
+  },
+  {
+    "name": "gobrand.claudeman-0.0.4",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\gobrand.claudeman-0.0.4",
+    "sizeBytes": 48106,
+    "sizeMB": 0.05,
+    "lastWriteTime": "02/18/2026 11:57:35"
+  },
+  {
+    "name": "evendead.help-me-add-1.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\evendead.help-me-add-1.0.1.vsix",
+    "sizeBytes": 38108,
+    "sizeMB": 0.04,
+    "lastWriteTime": "12/10/2025 22:57:35"
+  },
+  {
+    "name": "mrnasil.pnpm-manager-1.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\mrnasil.pnpm-manager-1.0.1.vsix",
+    "sizeBytes": 33327,
+    "sizeMB": 0.03,
+    "lastWriteTime": "12/10/2025 23:30:59"
+  },
+  {
+    "name": "nikolajfogh.private-extension-marketplace-helper-1.11.1",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\nikolajfogh.private-extension-marketplace-helper-1.11.1",
+    "sizeBytes": 23833,
+    "sizeMB": 0.02,
+    "lastWriteTime": "02/16/2026 08:52:26"
+  },
+  {
+    "name": "garmin.private-extension-manager-remote-helper-1.8.0",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\garmin.private-extension-manager-remote-helper-1.8.0",
+    "sizeBytes": 23132,
+    "sizeMB": 0.02,
+    "lastWriteTime": "02/16/2026 08:48:16"
+  },
+  {
+    "name": "saurabh.terminal-manager-1.0.6",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\saurabh.terminal-manager-1.0.6",
+    "sizeBytes": 22569,
+    "sizeMB": 0.02,
+    "lastWriteTime": "02/25/2026 01:59:07"
+  },
+  {
+    "name": "buildwithlayer.neon-integration-expert-15j6n-0.0.14.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\buildwithlayer.neon-integration-expert-15j6n-0.0.14.vsix",
+    "sizeBytes": 18654,
+    "sizeMB": 0.02,
+    "lastWriteTime": "12/10/2025 21:34:33"
+  },
+  {
+    "name": "reactbricks.react-bricks-snippets-1.0.0-web.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\reactbricks.react-bricks-snippets-1.0.0-web.vsix",
+    "sizeBytes": 14614,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 22:14:55"
+  },
+  {
+    "name": "forsgren.project-logo-1.1.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\forsgren.project-logo-1.1.0.vsix",
+    "sizeBytes": 14613,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 23:39:59"
+  },
+  {
+    "name": "elitewise.obsidian-snippets-1.0.3.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\elitewise.obsidian-snippets-1.0.3.vsix",
+    "sizeBytes": 14434,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 21:34:56"
+  },
+  {
+    "name": "fhswno.shadcn-components-lookup-0.2.0.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\fhswno.shadcn-components-lookup-0.2.0.vsix",
+    "sizeBytes": 10782,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 22:13:51"
+  },
+  {
+    "name": "meekdai.vsbrowser-0.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\meekdai.vsbrowser-0.0.1.vsix",
+    "sizeBytes": 9529,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 23:45:11"
+  },
+  {
+    "name": "ph1p.zeit-co-vscode-schemas-1.0.1.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\ph1p.zeit-co-vscode-schemas-1.0.1.vsix",
+    "sizeBytes": 8619,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 22:56:22"
+  },
+  {
+    "name": "keisugiyama.project-structure-0.1.2.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\keisugiyama.project-structure-0.1.2.vsix",
+    "sizeBytes": 6988,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 23:40:14"
+  },
+  {
+    "name": "sst-dev.opencode-0.0.12.vsix",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\sst-dev.opencode-0.0.12.vsix",
+    "sizeBytes": 5722,
+    "sizeMB": 0.01,
+    "lastWriteTime": "12/10/2025 23:30:17"
+  },
+  {
+    "name": "vscode-best-config.txt",
+    "kind": "file",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\vscode-best-config.txt",
+    "sizeBytes": 1235,
+    "sizeMB": 0.0,
+    "lastWriteTime": "04/20/2025 03:18:47"
+  },
+  {
+    "name": "prisma-vscode-agents-ptBR",
+    "kind": "directory",
+    "fullPath": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions\\prisma-vscode-agents-ptBR",
+    "sizeBytes": 0,
+    "sizeMB": 0.0,
+    "lastWriteTime": "12/09/2025 15:13:38"
+  }
+]

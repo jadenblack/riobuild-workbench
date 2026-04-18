@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-03-31T20:02:42",
+  "catalogRoot": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault",
+  "obsidianVault": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\obsidian-vault",
+  "sourceExtensionRoot": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions",
+  "legacyConfigRoot": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\_config__vscode-extentions",
+  "referenceFiles": [
+    {
+      "role": "catalog-manifest",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\riostack_vscode_extentions.json"
+    },
+    {
+      "role": "obsidian-home",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\obsidian-vault\\Home.md"
+    },
+    {
+      "role": "obsidian-index",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\obsidian-vault\\Extension Index.md"
+    },
+    {
+      "role": "index-json",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\obsidian-vault\\_data\\extensions_index.json"
+    },
+    {
+      "role": "legacy-imports",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\_imports\\legacy-config"
+    },
+    {
+      "role": "legacy-cache-summary",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\_imports\\legacy-config-cache\\legacy-config-summary.md"
+    },
+    {
+      "role": "legacy-cache-inventory",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\_extensions-vault\\_imports\\legacy-config-cache\\legacy-config-inventory.json"
+    },
+    {
+      "role": "source-install-index",
+      "path": "C:\\Users\\jaden.black\\dev\\repos\\.riostack\\02_vaults\\vscode\\extentions\\extensions.json"
+    }
+  ]
+}
