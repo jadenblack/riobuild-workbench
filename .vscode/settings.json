@@ -3,5 +3,18 @@
   "ghProjects.showSwitchButton": true,
   "ghProjects.worktreeAutoSetup": true,
   "ghProjects.planningModeViews": [],
-  "ghProjects.hiddenViews": []
+"ghProjects.hiddenViews": [],
+"ghProjects.mainBranch": "develop",
+"ghProjects.parallelWork.claudeCommand": "rio",
+"ghProjects.prMergedStatus": "MERGED",
+"ghProjects.prOpenedStatus": "REVIEW",
+"ghProjects.showEmptyColumns": true,
+"ghProjects.startWorkingStatus": "WIP",
+"ghProjects.worktree.defaultBaseBranch": "main",
+"ghProjects.worktreePath": ".ghp/worktrees",
+"ghProjects.worktreeCopyFiles": [
+    ".env",
+    ".env.local",
+    ".env.config"
+]
 }
