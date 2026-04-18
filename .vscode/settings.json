@@ -11,7 +11,7 @@
 "ghProjects.showEmptyColumns": true,
 "ghProjects.startWorkingStatus": "WIP",
 "ghProjects.worktree.defaultBaseBranch": "main",
-"ghProjects.worktreePath": ".ghp/worktrees",
+"ghProjects.worktreePath": "apps/work",
 "ghProjects.worktreeCopyFiles": [
     ".env",
     ".env.local",

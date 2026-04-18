@@ -61,6 +61,9 @@ export const defaultWorkspaceVsCodeSettings = {
   'ghProjects.worktreeAutoSetup': true,
   'ghProjects.planningModeViews': [] as string[],
   'ghProjects.hiddenViews': [] as string[],
+  'ghProjects.mainBranch': 'develop',
+  'ghProjects.worktree.defaultBaseBranch': 'main',
+  'ghProjects.worktreePath': 'apps/work',
 } as const;
 
 export const defaultWorkspaceVsCodeExtensions = {

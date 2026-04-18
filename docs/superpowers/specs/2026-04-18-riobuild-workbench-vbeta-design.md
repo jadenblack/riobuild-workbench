@@ -1,8 +1,8 @@
-# RioBuild Workbench vbeta Design
+# RioBuild Workbench v1.0.0.beta.3 Design
 
 ## Summary
 
-`vbeta` is the first operating beta for RioBuild Workbench.
+`v1.0.0.beta.3` is the first operating beta for RioBuild Workbench.
 
 The goal is not to ship the full product vision. The goal is to prove that a workspace can:
 

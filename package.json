@@ -1,7 +1,7 @@
 {
-  "name": "@jaden-black/riobuild_workbench",
+  "name": "@jaden-black/rioflow_workbench",
   "version": "0.1.0-beta.1",
-  "description": "RioBuild Workbench ADE - Agentic VS Code built on RioStack by RIOlabs - Realationship IO",
+  "description": "RioFlow Workbench ADE - Agentic VS Code built on RioStack by RIOlabs - Realationship IO",
   "private": false,
   "license": "MIT",
   "type": "module",

@@ -4,7 +4,7 @@ This repo is intentionally set up around a small, reviewable workflow.
 
 ## Development Loop
 
-1. Start from `main`.
+1. Use `develop` as the workspace branch.
 2. Create a branch or a worktree for one focused change.
 3. Make the smallest useful implementation change.
 4. Add or update tests in `test/`.
@@ -29,10 +29,10 @@ Worktrees are the easiest way to keep multiple tracks moving without branch chur
 Example:
 
 ```powershell
-git worktree add ..\ghp-vscode-setup-beta-docs -b codex/beta-docs
+git worktree add .\apps\work\beta-docs -b codex/beta-docs main
 ```
 
-That creates a sibling directory on a new branch while leaving your main checkout untouched.
+That creates a worktree under `apps/work/` from `main` while leaving the `develop` workspace checkout untouched.
 
 Good worktree use:
 

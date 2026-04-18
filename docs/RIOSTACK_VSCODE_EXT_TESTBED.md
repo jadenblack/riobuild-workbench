@@ -1,4 +1,4 @@
-# RioStack VS Code Ext Testbed
+# RioBuild Workbench
 
 ## Purpose
 
@@ -7,7 +7,7 @@
 Path:
 
 ```powershell
-C:\Users\jaden.black\dev\repos\.jaden.black\05-projects\riostack-vscode-ext
+C:\Users\jaden.black\dev\repos\.jaden.black\05-projects\riobuild_workbench
 ```
 
 ## Repo split

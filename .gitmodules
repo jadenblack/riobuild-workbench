@@ -1,0 +1,9 @@
+[submodule "apps/stacks/riostack-mempalace"]
+	path = apps/stacks/riostack-mempalace
+	url = https://github.com/riolabs-ai/mempalace.git
+[submodule "packages/FORK-RioFlow-Studio-ADE_ghp-project-main"]
+	path = packages/FORK-RioFlow-Studio-ADE_ghp-project-main
+	url = https://github.com/bretwardjames/ghp.git
+[submodule "apps/stacks/riostack-frontmatter"]
+	path = apps/stacks/riostack-frontmatter
+	url = https://github.com/jadenblack/riostack-vscode-ext.git

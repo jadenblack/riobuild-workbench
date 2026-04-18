@@ -79,6 +79,26 @@ describe('buildSetupTargets', () => {
       'VS Code Insiders settings',
     ]);
   });
+
+  it('uses develop for workspace flow and apps/work for worktrees', () => {
+    const targets = buildSetupTargets({
+      homeDir: 'C:\\Users\\jaden.black',
+      appDataDir: 'C:\\Users\\jaden.black\\AppData\\Roaming',
+      workspacePath: 'C:\\repo',
+      scope: 'workspace',
+      editors: 'both',
+    });
+
+    const workspaceSettings = targets.find(
+      (target) => target.name === 'Workspace VS Code settings',
+    );
+
+    expect(workspaceSettings?.template).toMatchObject({
+      'ghProjects.mainBranch': 'develop',
+      'ghProjects.worktree.defaultBaseBranch': 'main',
+      'ghProjects.worktreePath': 'apps/work',
+    });
+  });
 });
 
 describe('createAuditReport', () => {

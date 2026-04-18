@@ -314,7 +314,7 @@ related_decisions:
   - local-first-vbeta
 provider: codex
 team: setup-core
-transcript_ref:
+transcript_ref: null
 ---
 
 Session summary for the approved vbeta design.
@@ -357,6 +357,19 @@ Replace `apps/stacks/riostack-frontmatter/src/content/config.ts`:
 ```ts
 import { defineCollection, z } from 'astro:content';
 
+const moduleKind = z.enum(['dashboard']);
+const moduleStatus = z.enum(['active']);
+const teamKind = z.enum(['hybrid']);
+const teamStatus = z.enum(['active']);
+const providerReadinessStatus = z.enum(['available', 'warning', 'unknown']);
+const workItemType = z.enum(['initiative']);
+const workItemStatus = z.enum(['in-progress']);
+const workItemPriority = z.enum(['high']);
+const decisionStatus = z.enum(['accepted']);
+const decisionScope = z.enum(['architecture']);
+const sessionKind = z.enum(['design']);
+const releaseStatus = z.enum(['candidate']);
+
 const docs = defineCollection({
   schema: z.object({
     title: z.string(),
@@ -369,8 +382,8 @@ const modules = defineCollection({
   schema: z.object({
     id: z.string(),
     name: z.string(),
-    kind: z.string(),
-    status: z.string(),
+    kind: moduleKind,
+    status: moduleStatus,
     owner_team: z.string(),
     supporting_teams: z.array(z.string()).default([]),
     flags: z.array(z.string()).default([]),
@@ -386,9 +399,9 @@ const teams = defineCollection({
   schema: z.object({
     id: z.string(),
     name: z.string(),
-    kind: z.string(),
+    kind: teamKind,
     template: z.string(),
-    status: z.string(),
+    status: teamStatus,
     capabilities: z.array(z.string()).default([]),
     member_types: z.array(z.string()).default([]),
     owned_modules: z.array(z.string()).default([]),
@@ -402,10 +415,10 @@ const providers = defineCollection({
   schema: z.object({
     id: z.string(),
     name: z.string(),
-    status: z.string(),
-    session_context_status: z.string(),
-    provider_quota_status: z.string(),
-    provider_rate_limit_status: z.string(),
+    status: providerReadinessStatus,
+    session_context_status: providerReadinessStatus,
+    provider_quota_status: providerReadinessStatus,
+    provider_rate_limit_status: providerReadinessStatus,
     primary_lanes: z.array(z.string()).default([]),
     fallback_lanes: z.array(z.string()).default([]),
     notes: z.string().optional()
@@ -416,9 +429,9 @@ const workItems = defineCollection({
   schema: z.object({
     id: z.string(),
     title: z.string(),
-    type: z.string(),
-    status: z.string(),
-    priority: z.string(),
+    type: workItemType,
+    status: workItemStatus,
+    priority: workItemPriority,
     owner_team: z.string(),
     module: z.string(),
     decision_links: z.array(z.string()).default([]),
@@ -434,8 +447,8 @@ const decisions = defineCollection({
   schema: z.object({
     id: z.string(),
     title: z.string(),
-    status: z.string(),
-    scope: z.string(),
+    status: decisionStatus,
+    scope: decisionScope,
     related_modules: z.array(z.string()).default([]),
     related_work_items: z.array(z.string()).default([]),
     owner_team: z.string(),
@@ -447,13 +460,13 @@ const sessions = defineCollection({
   schema: z.object({
     id: z.string(),
     title: z.string(),
-    kind: z.string(),
+    kind: sessionKind,
     summary: z.string(),
     related_work_items: z.array(z.string()).default([]),
     related_decisions: z.array(z.string()).default([]),
     provider: z.string(),
     team: z.string(),
-    transcript_ref: z.string().optional()
+    transcript_ref: z.string().nullable()
   })
 });
 
@@ -461,7 +474,7 @@ const releases = defineCollection({
   schema: z.object({
     id: z.string(),
     title: z.string(),
-    status: z.string(),
+    status: releaseStatus,
     release_date: z.string().nullable().optional(),
     summary: z.string()
   })

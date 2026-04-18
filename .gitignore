@@ -8,3 +8,14 @@ Thumbs.db
 .env.*
 !.env.example
 *.log
+
+# Local reference clone; not part of the root product workspace.
+packages/CLONE-ALL-RioStack-Configs_dev-env-main/
+packages/deepwiki-riostack_setup/
+packages/achromatic-saas-main/
+
+# Generated cache from imported achromatic workspace; not source.
+packages/achromatic-saas-main/**/.content-collections/cache/
+
+# Local editor account state from imported workspace; not source.
+packages/achromatic-saas-main/**/.vscode/github-accounts.json
