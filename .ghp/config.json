@@ -1,11 +1,11 @@
 {
   "mainBranch": "main",
   "branchPattern": "{user}/{number}-{title}",
-  "startWorkingStatus": "In Progress",
-  "doneStatus": "Done",
-  "prOpenedStatus": "In Review",
-  "prMergedStatus": "Done",
-  "issueNotInProject": "ask",
+  "startWorkingStatus": "WIP",
+  "doneStatus": "DONE",
+  "prOpenedStatus": "REVIEW",
+  "prMergedStatus": "MERGED",
+  "issueNotInProject": "develop",
   "defaults": {
     "plan": {
       "mine": true
